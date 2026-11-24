@@ -15,6 +15,9 @@
 4. **[Проект 4: Поиск (tallia)](./04-tallia)** — Тестирование поисковой выдачи, обработки опечаток и синонимов.
 5. **[Проект 5: Автотесты (Python + Selenium)](./05-automation)** — Примеры UI-автотестов с использованием явных ожиданий (Explicit Waits) и Pytest.
 
+## 📜 Сертификаты и обучение
+* **[Сертификат ITTrade: Quality Assurance Manual - Foundation Level](./Certificate_QA_Manual.pdf)**
+* [Скачать выписку к сертификату (PDF)](./ВЫПИСКА_К_СЕРТИФИКАТУ_О_ПРОХОЖДЕН...)
 ## 📫 Контакты:
 * Telegram: @AnatoliyDidus
 * Email: bereg.007@email.com
