@@ -17,9 +17,9 @@
 
 ## 📜 Сертификаты и обучение
 
-* [Скачать выписку к сертификату с перечнем модулей (PDF)](./QA_Extract.pdf)
-
 * ![Сертифика - QA Manual](./QA_manual_certificate.png)
+* [Скачать выписку к сертификату с перечнем модулей (PDF)](./QA_Extract.pdf)
+  
 ## 📫 Контакты:
 * Telegram: @AnatoliyDidus
 * Email: bereg.007@email.com
