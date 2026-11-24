@@ -16,8 +16,11 @@
 5. **[Проект 5: Автотесты (Python + Selenium)](./05-automation)** — Примеры UI-автотестов с использованием явных ожиданий (Explicit Waits) и Pytest.
 
 ## 📜 Сертификаты и обучение
-* **[Сертификат ITTrade: Quality Assurance Manual - Foundation Level](./Certificate_QA_Manual.pdf)**
-* [Скачать выписку к сертификату (PDF)](./ВЫПИСКА_К_СЕРТИФИКАТУ_О_ПРОХОЖДЕН...)
+
+* [Скачать выписку к сертификату с перечнем модулей (PDF)](./QA_Extract.pdf)
+
+* ![Сертифика - QA Manual](./QA_manual_certificate.png)
+* 
 ## 📫 Контакты:
 * Telegram: @AnatoliyDidus
 * Email: bereg.007@email.com
